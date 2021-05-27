@@ -1,1 +1,1 @@
-# merchant
+# AI ACADEMY PROJ2 REPO
